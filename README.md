@@ -7,10 +7,13 @@ The purpose of this analysis is to provide metrics about individual schools and 
 ###  * How is the district summary affected? 
    The district summary overall passing percentage drops only about half a percentage point with the NaN values in the data:
    ![CH_District](https://github.com/laurenneidhardt/School_District_Analysis/blob/main/CH_District.PNG)
-   But is not greatly affected in the end, as the averages for passing scores is relatively the same once the NaN values are factored out.
+   But is not greatly affected in the end, as the averages for passing scores is relatively the same once the NaN values are factored out. Below are the values from the original code with no NaN values:
    ![Orig_District](https://github.com/laurenneidhardt/School_District_Analysis/blob/main/Orig_District.PNG) 
 ###  * How is the school summary affected?  
-   When the THS 9th grade scores are dropped to NaN, the school summary is affected by a large drop in THS overall passing percentage, making it a bottom 5 school in the district. Once the NaN values are removed (the 9th grade students), THS resumes its place in the top 5
+   When the THS 9th grade scores are dropped to NaN, the school summary is affected by a large drop in THS overall passing percentage, making it a bottom 5 school in the district. 
+  ![CH_THS_NaN_Values] (https://github.com/laurenneidhardt/School_District_Analysis/blob/main/CH_THS_NaN_Values.PNG)
+   Once the NaN values are removed (the 9th grade students), THS resumes its place in the top 5
+   ![CH_THS_NaN_Removed] (https://github.com/laurenneidhardt/School_District_Analysis/blob/main/CH_THS_NaN_Removed.PNG)
 ###  * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? 
   Once the NaN values are removed from the analysis, the change in percentages passing math, reading and overall is miniscule, no more that 2 100th's of a percent difference, so no major difference.
 ###  * How does replacing the ninth-grade scores affect the following:
