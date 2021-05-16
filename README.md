@@ -1,4 +1,4 @@
-# School_District_Analysis
+# School District Analysis
 Module 4: Pandas and Jupyter Notebooks
 ## 1. Overview of the school district analysis: Explain the purpose of this analysis.
 The purpose of this analysis is to provide metrics about individual schools and the overall disticts. The data pertains to reading and writing overall scoring, and then the overall passing rates. Budget per student relative to passing rates is used to evaluate overall school performance. Due to issues in reporting, Thomas High School 9th grade scores have been removed from the overall evaluation. 
