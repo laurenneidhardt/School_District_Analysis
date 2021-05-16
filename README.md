@@ -24,6 +24,6 @@ The purpose of this analysis is to provide metrics about individual schools and 
 ## 3.Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 * All of the averages are significantly lower for THS with the NaN values in the data.
 * THS follows the pattern of having a low passing percentage and a higher budget per student. 
-* The overall passing percentage drops significantly since THS is a high perfomrning school.
+* The overall passing percentage drops significantly since THS is a high performing school.
 * THS becomes a bottom five school.
 
